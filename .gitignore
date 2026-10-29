@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*.bak
+.venv/
+venv/
+.ipynb_checkpoints/
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.xdv
+# reproduction outputs (compare against committed data with cmp)
+data/coded_with_A_measuredP.csv
+data/measured_P.csv
+data/us341_phipsi.csv
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
