@@ -80,7 +80,7 @@ cmp ../data/us341_phipsi.csv           ../data/us341_BLS_PhiPsi.csv
   institution = {Working Paper},
   year        = {2026},
   note        = {Version 12},
-  url         = {https://github.com/USERNAME/REPO}
+  url         = {https://github.com/akky1ch/supervisory-bottleneck-ai-labor}
 }
 ```
 
